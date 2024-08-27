@@ -9,7 +9,7 @@ Student at Skyline High School. Projected graduation 2026. Taking courses in CAD
 ## Projedts for term 2
 
 ### Role in team
-*Mechanical engineer/ builder
+* Mechanical engineer/ builder
 * documenter
 * experiment with CAD
 * Documentet team progress
